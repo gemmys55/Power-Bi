@@ -1,3 +1,5 @@
+**Financial Data Analysis **
+
 **Introduction**
 This project analyzes sales data from various segments, countries, and products over a specific period. The purpose is to identify key trends, derive actionable insights, and provide recommendations that can drive strategic business decisions. By leveraging Power BI’s capabilities, the project presents a comprehensive and interactive analysis, allowing users to explore data through various visualizations and interactive element
 
